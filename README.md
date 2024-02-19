@@ -1,6 +1,9 @@
 # runner
 Apk is placed in "Build" Folder.
-
+<br /><br />
+GamePLay Video:<br />
+https://disk.yandex.ru/i/KYz4ksDVwirIWQ
+<br /><br />
 Controls:<br />
 Tap on left screen half side: move left. <br />
 Tap on right screen half side: move right.<br />
