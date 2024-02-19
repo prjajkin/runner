@@ -81,6 +81,7 @@ crashlytics-build.properties
 *.userprefs
 *.pidb
 .vs 
+.vsconfig
 [Ee]xportedObj/
 *.unityproj
 *.sln
