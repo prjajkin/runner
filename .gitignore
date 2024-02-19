@@ -5,7 +5,7 @@
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
-/[Bb]uild/
+#/[Bb]uild/
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
@@ -55,11 +55,11 @@ ExportedObj/
 # Unity3D generated file on crash reports
 sysinfo.txt
 
-# Builds
-*.apk
-*.aab
-*.unitypackage
-*.app
+## Builds
+#*.apk
+#*.aab
+#*.unitypackage
+#*.app
 
 # Crashlytics generated file
 crashlytics-build.properties
@@ -70,3 +70,19 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+
+
+# VS/MD solution and project files
+*.booproj
+*.suo
+*.svd
+*.user
+*.userprefs
+*.pidb
+.vs 
+[Ee]xportedObj/
+*.unityproj
+*.sln
+*.csproj
+ 
